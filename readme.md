@@ -4,7 +4,7 @@ This is a YouTube web scraper for videos and search queries written for the [Rad
 ## Getting Started
 
 ### Requirements
-- Python 3 (developed on 3.3.9)
+- Python 3 (developed on 3.9.9)
 - [aiohttp](https://docs.aiohttp.org/en/stable/) (developed on 3.8.1)
 - [aiohttp-socks](https://github.com/romis2012/aiohttp-socks) (developed on 0.7.1)
 - [asyncio](https://docs.python.org/3/library/asyncio.html) (developed on 3.4.3)
